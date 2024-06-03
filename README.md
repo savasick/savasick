@@ -7,6 +7,6 @@
 
 </a>
 
-<p align="left"> <img src="https://profile-counter.glitch.me/savasick/count.svg" /></p>
+<p align="left"> <img src="https://profile-counter.glitch.me/savasick/count.svg" alt=" "/></p>
 
 </h4>
