@@ -1,4 +1,4 @@
-<img src="./assets/gif/savasick.gif" width="141px" style="float:right; alt=' '" align="right">
+<img src="./assets/gif/savasick.gif" width="141px" style="float:right;" alt="" align="right">
 
 <h4>
 <a href="https://github.com/savasick.gpg">
@@ -7,6 +7,6 @@
 
 </a>
 
-<p align="left"> <img src="https://profile-counter.glitch.me/savasick/count.svg" alt=" "/></p>
+<p align="left"> <img src="https://profile-counter.glitch.me/savasick/count.svg" alt=""/></p>
 
 </h4>
